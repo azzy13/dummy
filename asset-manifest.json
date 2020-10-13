@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dummy/static/css/main.1764b4f5.chunk.css",
+    "main.js": "/dummy/static/js/main.65efd590.chunk.js",
+    "main.js.map": "/dummy/static/js/main.65efd590.chunk.js.map",
+    "runtime-main.js": "/dummy/static/js/runtime-main.6a883823.js",
+    "runtime-main.js.map": "/dummy/static/js/runtime-main.6a883823.js.map",
+    "static/js/2.0f8064d3.chunk.js": "/dummy/static/js/2.0f8064d3.chunk.js",
+    "static/js/2.0f8064d3.chunk.js.map": "/dummy/static/js/2.0f8064d3.chunk.js.map",
+    "index.html": "/dummy/index.html",
+    "precache-manifest.7db316639c3530d90a47c5bd73ca89c0.js": "/dummy/precache-manifest.7db316639c3530d90a47c5bd73ca89c0.js",
+    "service-worker.js": "/dummy/service-worker.js",
+    "static/css/main.1764b4f5.chunk.css.map": "/dummy/static/css/main.1764b4f5.chunk.css.map",
+    "static/js/2.0f8064d3.chunk.js.LICENSE.txt": "/dummy/static/js/2.0f8064d3.chunk.js.LICENSE.txt",
+    "static/media/kanki.jpg": "/dummy/static/media/kanki.29318b6c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a883823.js",
+    "static/js/2.0f8064d3.chunk.js",
+    "static/css/main.1764b4f5.chunk.css",
+    "static/js/main.65efd590.chunk.js"
+  ]
+}
